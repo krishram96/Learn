@@ -2,7 +2,6 @@ employees =[
     {"name":"krishna","salary":1000},
     {"name":"meena","salary":2000}
 ]
-
 high_salary=[]
 
 for emp in employees:
